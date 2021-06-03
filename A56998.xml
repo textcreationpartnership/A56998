@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance on the behalfe of Cumberland and Westmerland published for their moderate vindication from a late scandall, and for a true representation of the state of the ministry in the Diocesse of Carlile.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56998</idno><idno type="EEBO-CITATION">11893758</idno>
+  <idno type="VID">50515</idno>
+  <idno type="EEBO-PROQUEST">2240920647</idno>
+  
+            <idno type="STC">Wing R1019</idno>
+            <idno type="STC">ESTC R6457</idno>
+            <idno type="OCLC">11893758</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 508:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance on the behalfe of Cumberland and Westmerland published for their moderate vindication from a late scandall, and for a true representation of the state of the ministry in the Diocesse of Carlile.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brooke, Robert Greville, --  Baron, 1607-1643. --  Discourse opening the nature of that episcopacie, which is exercised in England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50515:1"/>
+            <p>A REMONSTRANCE On the behalfe of <hi>COMBERLAND</hi> And <hi>WESTMERLAND,</hi> Published.</p>
+            <p>For their moderate Vindication from a late Scandall.</p>
+            <p>AND For a true representation of the State of the Ministry in the Diocesse of CARLILE.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50515:2"/>
+            <pb n="1" facs="tcp:50515:2"/>
+            <head>A REMONSTRANCE Published, Upon occasion of a much noted Passage in the Right Honorable,<note place="margin">Note, That there are two Pages which bear die number 107. This passage is in the former.</note> the Lord <hi>Brooke</hi> his Dis<g ref="char:EOLhyphen"/>course upon <hi>Episcopacy, P.</hi> 107.</head>
+            <p>WHereas it is by the most diffusive meanes, and under the stampe of Honour, (that it might be the more currant) published to the World, <hi>That scarce a Minister can bee seene in some whole Shiers; as namely, in Cumberland, Westmerland, &amp;c.</hi> And <hi>That</hi> (as lies faire to be taken up from the following words) <hi>There is not so much as a shew of a Church in those parts.</hi> Wee apprehending this (as farre as it concernes the two Countries of Cumberland and Westmerland) to be a foule imputation of impious negli<g ref="char:EOLhyphen"/>gence on the Bishop and the Clergie of that Diocesse: And of Atheisme and irreligious security on th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gentry, and all the In<g ref="char:EOLhyphen"/>habitants; <hi>Doe publikely Declare,</hi>
+            </p>
+            <p>
+               <hi>That,</hi> Although we doe with true grief acknowledge the want of able Ministers, and the ignorance of the people: Yet, to see Ministers there, is not so impossible or unusuall, as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Lord<g ref="char:EOLhyphen"/>ship would perswade the World: For, there are to be found some of ancient growth amongst us, whose Gravitie, Integri<g ref="char:EOLhyphen"/>ty, Learning, and Industry, would perhaps make them ap<g ref="char:EOLhyphen"/>peare eminent in the crowde of Southerne Divines. And to these there have beene, by later presentations from the Bishop and other Patrons, drawne in from the Vniversities many able
+<pb n="2" facs="tcp:50515:3"/> men, who deserve a warmer Sunne, and a fatter soyle; These are resident on the places of most considerable value: The rest are generally supplyed by men, though perhaps to weake for that heavy charge, yet not unworthy of their small main<g ref="char:EOLhyphen"/>tenance; Men, though not of choice abilities, yet surely not recommended to the Bishop, and his ignorant, or drunken, Chaplaine, by the sole gift of Angells; and by them of Tapsters,<note place="margin">These seemly ex<g ref="char:EOLhyphen"/>pressions his Lord<g ref="char:EOLhyphen"/>ship affords us in the next page.</note> Coblers, or Butchers, transformed into Preachers; but such as by their best and entire indeavours, addict them<g ref="char:EOLhyphen"/>selves to that sacred studie, and have improved their gifts as high as theirs, whose arguments his Lordship there exhibits; And thus in some sort GOD hath provided for those poore soules and places that we may truely affirme, That through<g ref="char:EOLhyphen"/>out Westmerland, there is not any one Cure destitute of a preaching Minister, and not many in Cumberland; and that generally throughout both Sheirs, the Ministrie doth fully answer the maintenance.</p>
+            <p>
+               <hi>For</hi> a fuller satisfaction to the World, Wee further declare,</p>
+            <p>
+               <hi>That</hi> the pittied, or rather reproached ignorance of the common people in those parts, hath not the originall rise from the defect of the Ministrie, but is caused principally, by the common fate of bordering people; Who being ex<g ref="char:EOLhyphen"/>posed to the daily effects of ill neighbourhood, and to the first furie of Warre from that side, and never secure of the fruits of their industrie, of their liberties or lives, doe by the secret dispensations of nature, r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceive dispositions suta<g ref="char:EOLhyphen"/>ble to their condition, and daily improve them to more apt<g ref="char:EOLhyphen"/>nesse: So that they are generally observed to bee of fierce and warlike spirits, carelesse of wealth, greedy of spoyle, impatient of peace or government, and despisers of all Trades, Arts, and Professions. And this fate, whereto our Countrey was by scituation submitted, did so frame the mindes and manners of the common people, especially on the extreame borders, that, under the names of Subjects
+<pb n="3" facs="tcp:50515:3"/> and Christians, they lived without acknowledgement of GOD or KING, of Law or Gospell: So that a<g ref="char:EOLhyphen"/>mongst these, we may from the union of the Crownes, compute the Plantation of our Religion: And shall the blessed effects thereof be presently expected? There was in them lawlesnesse to be restrained, fiercenesse to be civi<g ref="char:EOLhyphen"/>lized, ignorance to be informed; besides the common cor<g ref="char:EOLhyphen"/>ruptions of our nature, which in the most ingenious doe slowly yeeld to the impressions of grace; All which to goe through is a worke of longer time then forty yeares, unlesse the instruments bee eminent, and very industrious, and the free grace of God extraordinarily operative. And here lies a second cause of their ignorance, in the de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect of those outward meanes which should advance the work: For to the plantation of the Gospell (which worke, as we said, was in a manner to begin with the Vnion) is re<g ref="char:EOLhyphen"/>quisite an extraordinary Ministerie, men of grave and un<g ref="char:EOLhyphen"/>blameable behaviour, powerfull eloquence, great wise<g ref="char:EOLhyphen"/>dome and resolution; and to draw Agents so excellent, to a worke so difficult, and hazardous, into a countrey re<g ref="char:EOLhyphen"/>mote from the Sunne, their friends and hopes, there need<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d more then common allurements: Yea, were that worke done, and the people become as apprehensive of the worth and necessity of Gods word, and as respectfull towards the Ministrie, as they are in this Citie (whose greatest honour and happinesse it is to be so affected) yet, Who? unlesse invited by a very faire fortune, will retyre into a corner where he sees his hopes shall be terminated, and himselfe nayled fast: But alas, such allurements doe not there ap<g ref="char:EOLhyphen"/>peare; the Church-maintenance falls so short of this pro<g ref="char:EOLhyphen"/>portion, that in most parts it doth not extend to a compe<g ref="char:EOLhyphen"/>tencie: In large Parishes slender husbandry makes meane Tythes; and of that their due portion in some places im<g ref="char:EOLhyphen"/>propriations take all, and leave a Viccaradge scarce able to satisfie the Crowne, or a stipend that would hardly content a Faulconer: In other places auncient compo<g ref="char:EOLhyphen"/>sitions forced on the Ministers by the violence of the peo<g ref="char:EOLhyphen"/>ple,
+<pb n="4" facs="tcp:50515:4"/> or condition of the times, and continued into pre<g ref="char:EOLhyphen"/>scriptions, together with many pretended customes, take halfe, or the better part, and leave to the Parson onely so much, as may stumble his reason to resolve how the for<g ref="char:EOLhyphen"/>tieth or the hundreth part should bee the tenth, not e<g ref="char:EOLhyphen"/>nough to advance his Divinity by the supply of Bookes: And generally the people (being not satisfied of the ne<g ref="char:EOLhyphen"/>cessity and worth of a painefull Minister) are too ready to defraud him, and force him into costly suits, for the recovery of what is his due; his due confessed by the com<g ref="char:EOLhyphen"/>mon Law; which surely is not so favourable to the Cler<g ref="char:EOLhyphen"/>gy, as that it may encourage them to unnecessary and un<g ref="char:EOLhyphen"/>constrained suits. And this the people so well apprehend, together with their second advantage from the interest of the Jury, that of late seeing Ecclesiastick Courts halfe shut up, they have given reason to some of our worthiest Divines to complaine of their hard case betwixt the States impositions, and the peoples injuries.</p>
+            <p>
+               <hi>Therefore,</hi> In direct opposition to that which drew u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into this field, we in briefe declare,</p>
+            <p>That there are to be found in those Countries many suf<g ref="char:EOLhyphen"/>ficient Ministers; enough to take of this imputation, though not enough to take the several Cures; wherof the rest never<g ref="char:EOLhyphen"/>thelesse are not neglected because the means will not allow them to be better cared for: And herein is the onely defect; Which wee hope the mercie of GOD will in his good time supply to us by contributions from these more flou<g ref="char:EOLhyphen"/>rishing parts, and by the pious consultations of the State: And if his Lordship had on any such designe represented us in this lamentable condition, we should have esteemed this a happy scandall, and kissed his hands for the wounds we have received from his Pen, as humbly as though it had dropped balsome, not gall: But we are sorry that we cannot make this construction of those hard words: For, they are here put into the mouth of those Pretenders to inspiration,
+<pb n="5" facs="tcp:50515:4"/> and miraculous gifts, as a zealous motive for their unhal<g ref="char:EOLhyphen"/>lowed sacrifices. And whether this be indeed one of their arguments, or now commodiously offered them by his Lordship, yet since he leaves it in all the parts thereof, both Position and Consequence unanswered, wee have reason to conceive that his Lordship would have the World be<g ref="char:EOLhyphen"/>leeve the first, <hi>That we are in this unchristian state;</hi> and per<g ref="char:EOLhyphen"/>mit the consequence. <hi>The intrusion of uncalled men into Christs Harvest,</hi> for a <hi>remedy.</hi> But GOD send us, and his whole Church a better; for in this, we rather expect a ruine,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
